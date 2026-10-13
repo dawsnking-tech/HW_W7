@@ -1,0 +1,39 @@
+
+body {
+  background-color: #688625;
+  font-family: tahoma, sans-serif;
+}
+
+.contact-header {
+  color: rgb(240, 11, 11);
+  text-align: center;
+}
+
+.contact-text {
+  color: #f8f404;
+  font-size: 18px;
+}
+
+
+#fName,
+#lName,
+#message,
+#email {
+  width: 250px;
+  padding: 8px;
+  margin: 8px 0;
+  border: 1px solid #1caba4;
+  border-radius: 8px;
+}
+p {
+  color: rgb(10, 192, 92);
+  font-family: fantasy, monospace;
+  font-size: 30px;
+}
+#mySubmit {
+  background-color: #2d6cdf;
+  color: rgb(78, 13, 167);
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+}
